@@ -1,0 +1,1359 @@
+%abc
+%%abc-alias none
+%%abc-creator ABCexplorer 1.6.0 [19.4.2016]
+
+X:3
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+T:Black Rogue (Jig), The
+M:6/8
+L:1/8
+O:Trad. (15.10.2014/NS)
+R: jig
+K:D
+|: "A"cAA "G"BGG | "A"cAA ABd | "A"cAA "G"BAG | "D"AFD D2 B|
+"A"cAA "G"BGG | "A"cAA AFD | "G"~G2G ~B2B | "D"AFD D2 B :|
+|: "D"~f3 "Em"~g3 | "D/F#"afd "G"cBA| "D/F#"~f3 "G"gfg | "D"afd dfg |
+"D"agf "G"gfe | "D/F#"fed e/f/ed | "A"cBA "G"BAG | "D"AFD D3 :|
+%%vskip
+W:The Black Rogue
+%%vskip
+W:||: cAA BGG | cAA ABd | cAA BAG | AFD D2 B |
+W: cAA BGG | cAA AFD | ~G2G ~B2B | AFD D2 B :|
+W:||: ~f3 ~g3 | afd cBA| ~f3 gfg | afd dfg |
+W: agf gfe | fed e2d | cBA BAG | AFD D3 :|
+%%vskip
+%%vskip
+P:Whelan's
+M:6/8
+L:1/8
+R:jig
+K:Edor
+"Em"~E3 BAF|FEB "D"AFD
+%%vskip
+%%begintext
+|: Em   |      D  | Em     | Hm     |
+|  Em   |      D  | Em     | Hm    :|
+|: C      ||           | Hm     |
+|  C      || Am    | Hm    :|
+%%endtext
+%%vskip
+%%vskip
+P:The Tenpenny Bit
+M:6/8
+L:1/8
+R:jig
+K:Ador
+"Am"eAA eAA|"G"BAB GBd
+%%vskip
+%%begintext
+|: Am   | G      | Am   | G       |
+|  Am   | G      | G      | Am   :|
+|: Am   | G      | Am   | Em     |
+|  Am   | Em   | G      | Am    :|
+%%endtext
+
+X:23
+T:King Of The Pipers (Jig)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:6/8
+L:1/8
+R: Jig
+O:Trad. (9.9.2015/NS)
+K:Dmix
+P:A
+A2F B2F|A2G FED|A2F B2F|GFG GFD|
+A2F B2F|A2G FED|GAB cAF|GFG AFD:|
+P:B
+|:dfa afd|d^cd ecA|GAB =cAF|GFG AFD|
+dfa afa|geg fdA|GAB cAF|GFG AFD:|
+P:C
+|:d2e d2A|d2e dcA|d2e dcA|GFG AFD|
+d2e d2A|d2e dcA|GAB cAF|GFG AFD:|
+P:D
+|:def def|def e^cA|def def|GFG AFD|
+def def|def e^cA|GAB =cAF|GFG AFD:|
+P:E
+|:Ddd Dcc|DBB Dcc|Ddd Dcc|GFG AFD|
+Ddd Dcc|DBB DAA|GAB cAF|GFG AFD:|
+%%vskip
+%%begintext
+A  |: A2F B2F | A2G FED | A2F B2F | GFG GFD |
+A2F B2F | A2G FED | GAB cAF | GFG AFD :|
+B  |: dfa afd | d^cd ecA | GAB =cAF | GFG AFD |
+dfa afa | geg fdA | GAB cAF | GFG AFD :|
+C  |: d2e d2A | d2e dcA | d2e dcA | GFG AFD |
+d2e d2A | d2e dcA | GAB cAF | GFG AFD :|
+D  |: def def | def e^cA | def def | GFG AFD |
+def def | def e^cA | GAB =cAF | GFG AFD :|
+E  |: Ddd Dcc | DBB Dcc | Ddd Dcc | GFG AFD |
+Ddd Dcc | DBB DAA | GAB cAF | GFG AFD :|
+%%endtext
+%%vskip
+%%begintext
+Altan: King Of The Pipers (Harvest Storm 1992)
+%%endtext
+
+X:30
+T:Old Hag, You Have Killed Me (Jig)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R: jig
+M: 6/8
+L:1/8
+O:Trad. (4.11.2015/NS)
+K:Dmix
+"D"FDD cAA|ded "Am"cAG|"D"A2A BAG|"Am"A"<("">)"BA A2G|
+"D"FDD cAA|ded cAF|"G"G3 GBA|1 G"<("">)"AG G2E:|2 G"<("">)"AG G2e||
+|:"D"f2f "/E"g"<("">)"fg|"/F#"afd cAG|"D"A2A BAG|"Am"A"<("">)"BA A2e|
+"D"f"<("">)"ef "/E"g"<("">)"fg|"/F#"afd cAF|"G"G2G GBA|1 G"<("">)"AG G2e:|2 G"<("">)"AG G2E||
+%%vskip
+%%begintext
+|: FDD cAA | ded cAG | A2A BAG | ABA A2G |
+FDD cAA | ded cAF | G3 GBA | GAG G2E :|
+|: f2f gfg | afd cAG | A2A BAG | ABA A2e |
+fef gfg | afd cAF | G2G GBA | GAG G2e :|
+%%endtext
+%%vskip
+P:Dinny Delaney's
+K:Dmix
+"D"A2D ~D3 | A2G E2G %|A2D ~D3 |"C"G2A GED |"D"A2D ~D3 c2d e2d|"C"dcA AGE G2A GED:|
+%|:"D"dcA AGE "C"c3 ABc|"D"dcA AGE "G"G2A GED|"D"dcA AGE "C"c2d e2d|dcA AGE G2A GED:|
+%|:"D"A2D ~D3 "D"A2B "G"G2B|"D"A2B "G"G2A "C"E2E GED|"D"A2D ~D3 c2d e2d|"C"dcA AGE G2A GED:|
+%|:dcA AGE c3 ABc|dcA AGE G2A GED|dcA AGE c2d e2d|dcA AGE G2A GED:|
+%%vskip
+%%begintext
+|: D   | %   | %    | C    |
+D      | %   | C    | %   :|
+|: D   | C    | D    | G    |
+D      | %   | C    | %   :|
+3. kerralla A-osa:
+|: D      | D  G  | D  G  | C      |
+D         | %      | C       | %    :|
+%%endtext
+%%vskip
+K:Edor
+P:Morrison's
+|:"Em"E2E B2B|EBE "D"AFD %|"Em"EDE B3|"D"dcB AFD|
+%"Em"E2E B2B|EBE "D"AFD|"G"G3 FGA|"D"dAG FED:|
+%"Em"Bee fee|bee "D"fee|"Em"Bee fee|"D"fag fed|
+%"Em"Bee fee|bee "D"fee|"C"gfe d2A|"Bm"BAG FED|
+%"Em"Bee fee|bee "D"fee|"Em"Bee fee|"D"faf def|
+%"G"g3 gfe|def g2d|"D"edc d2A|"Bm"BAG FED||
+%%vskip
+%%begintext
+|: Em   | Em  D    | Em    | D      |
+Em      | Em  D    | G       | D     :|
+|: Em   | Em  D    | Em    | D       |
+Em      | Em  D    | C       | Hm   |
+Em      | Em  D    | Em    | D       |
+G         |  %          | D      | Hm   :|
+%%endtext
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+W:Bothy Band: Old Hag You Have Killed Me
+
+X:1
+T:Out on the Ocean (jig)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:6/8
+L:1/8
+O:Trad. (29.11.2013/NS)
+R: jig
+K:Gmaj
+|:"G"D2B BAG|BdB A2B|"C"GED G2A|B2B AGE|
+"G"D2B BAG|BdB A2B|"C"GED G2A|"D"BGG G3:|
+|:"Em"e2e edB|e2e edB|"D"d2d dBA|"(C)"d2d dBA|
+"G"G2A "G/F#"B2d|"Em"ege "D"dBA|"C"GED G2A|"D"BGG G3:|
+%%vskip
+P:The Hag At The Churn
+K:Dmix
+|:"D"A2G ADD|A2G Adc|A2G ADD|EFG EFG:|
+"D"AdB "C"c3|"D"Add efg|"D"AdB "C"c2A|"G"GEG AED|
+"D"AdB "C"c3|"D"Add efg|"A"age dBA|GEG AED||
+%%vskip
+P:Kesh Jig
+K:Gmaj
+|:"G"G2G GAB|"D"A2A ABd|"G"edd gdd|"D"edB dBA|
+"G"G2G GAB|"D"A2A ABd|"G"edd "C"gdB|"D"AGF "G"G3:|
+"G"B2B d2d|ege dBA|B2B dBG|"D"ABA A2A|
+"G"B2B dBd|ege d2d|"C"g2g aga| "D"bgg "G"g3:|
+
+X:2
+T:Palm Sunday (Jig)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:6/8
+L:1/8
+O:Trad. (13.3.2014/NS)
+R: jig
+K:Ador
+|:B |"Am"AGE G2E|G2E G2E|A2B c2d|"G"e2d efg|
+"Am"~e3 ded|"G"BAG Bcd|"C"edc BAG|"D"B2A A2:|
+|:e|"Am"~a3 efg|a2a "C"bge|"G"g2g gfe|dBA GBd|
+"Am"efg ded|"G/B"BAG Bcd|"C"edc BAG|"D"B2A A2:|
+%%vskip
+%%vskip
+K:Dmaj
+P:The Burnt Old Man
+|:"D"DFB AFD|~F3 F2E|DFB AFD|"A"E2E GFE|
+"D"DFB AFD|F2A d2e|"G"fed B2B|"D"AFD "A"E3:|
+|:"D"~d3 def|ABA AFA|"Em"~e3 ede|fed B2A|
+"D/F#"~d3 def|ABA d2e|"G"fed B2B|"D"AFD "A"E3:|
+%%vskip
+W:Palm Sunday
+%%vskip
+W:||:B | AGE G2E | G2E G2E | A2B c2d | e2d efg |
+W: ~e3 d2d | BAG Bcd | edc BAG | B2A A2 :|
+W:||:e | ~a3 efg | a2a bge | g2g gfe | dBA GBd |
+W: efg ded | BAG Bcd | edc BAG | B2A A2 :|
+%%vskip
+W:The Burnt Old Man
+%%vskip
+W:||:DFB AFD | ~F3 F2E | DFB AFD | E2E GFE |
+W:DFB AFD | F2A d2e | fed B2B | AFD E3 :|
+W:||:~d3 def | ABA AFA | ~e3 ede | fed B2A |
+W:~d3 def | ABA d2e | fed B2B | AFD E3 :|
+
+X:25
+T:Seamus O'Shanahan's (jig)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R: jig
+M:6/8
+L:1/8
+O:Paul O'Shaughnessy (15.9.2015/NS)
+K:Bmin
+|: "Bm" F2 B Bcd| "A" cAA Ace| "D" fed cde| "F#m" d3 cAG|
+"Bm" F3 Bcd| "A" cAA Ace| "D" fed cde|1 "A" dBA B3 :|2 "F#m" dBA Bcd||
+|: "Em" e2 g gag| "Bm" fdB Bed| "F#m" c2 e edc| "Bm" dff fdB|
+"Em" egg gag| "Bm" fdB Bed| "F#m" cde dcA| "G" BcB "A" B2B:|
+%%vskip
+%%begintext
+|: F2B Bcd| cAA Ace| fed cde| d3 cAG |
+F3 Bcd | cAA Ace | fed cde |1 dBA B3 :|2 dBA Bcd |
+|: e2g gag | fdB Bed | c2e edc| dff fdB |
+egg gag | fdB Bed | cde dcA | BcB B2B :|
+%%endtext
+%%vskip
+K:Dmix
+P:Garrett Barry's
+|: "D5" DEF ~G3|AGA c2A %|"C" dcA d2e|fed cAG|
+%"D5"~F3 GFG|AGA cde|"Am"dcA "C"GEA|"D5"DED D2 A:|
+%|:"D5"dcA d2e|"C"fed (3efg e|"D5"dcA c2d|"C"efe ecA|
+%"D5"dcA "C"d2e|"Am"fed (3efg e|dcA "C"GEA|"D5"DED D2 A:|
+%%vskip
+%%begintext
+|: D5     | %     | C         |  %    |
+| D5      | %     | Am C  | D5   :|
+|: D5     | C     | D5       | C      |
+| D5 C  | Am  | Am C   | D5  :|
+%%endtext
+%%vskip
+P:Saddle The Pony
+K:Gmaj
+D| "G" GBA G2B| def gdB %| "G" GBA G2B| "D" AFD AFD|
+%"G" GBA G2B| "G" def gfg| "Em" ege dBA| "G" BGG G2:||
+%d| "C" efe edB| "G" def gfg| "C" efe edB| "D" dBA ABd|
+%"C" efe edB| "G" def gfg| "Em" ege dBA| "G" BGG G2:||
+%%vskip
+%%begintext
+|: G     | %   | %      | D     |
+| G      | %   | C  D  | G    :|
+|: Em  | D    | Em    | D     |
+| Em   | D    | C  D  | G    :|
+%%endtext
+
+X:19
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+T:Swallowtail (Jig), The
+R: jig
+M:6/8
+L:1/8
+O:Trad. (14.2.2015/NS)
+K:Dmaj
+|:"Em"GEE BEE|GEE BAG|"D"FDD ADD|dcd AGF|
+"Em"GEE BEE|GEE B2c|"D"dcd AGF|"Em"GEE E3:|
+|:"Em"Bcd e2f|e2f edc|Bcd e2f|"Em"edc "D"d2c|
+"Em"Bcd e2f|e2f edc|"D"dcd AGF|"Em"GEE E3:|]
+%%vskip
+%%vskip
+%%begintext
+The Swallowtail (jig)
+|: GEE BEE | GEE BAG | FDD ADD | dcd AGF |
+GEE BEE | GEE B2c | dcd AGF | GEE E3 :|
+|: Bcd e2f | e2f edc | Bcd e2f | edc d2c |
+Bcd e2f | e2f edc | dcd AGF | GEE E3 :|
+%%endtext
+
+X:7
+T:Boys Of The Lough (reel), The
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:4/4
+L:1/8
+R: reel
+O:Trad. (9.9.2014/NS)
+K:Dmaj
+dB|:"D"AF F2 A2 AB|"G"defd "A"efdB|"D"AF F2 dFAF|"A"E2ED EFGB|
+"D"AF F2 A2 AB|"G"defd "A"efdB|"D"AF F2 dFAF| "A"E2EF "D"D2 :|
+fg|:"D"a2 ag "D/F#" f2fe|"G"defd "A"efdB|"D"AF F2 dFAF|"A"E2EF E2fg|
+"D"a2ag "D/F#"f2fe|"G"defd "A"efdB|"Hm"AF F2 "G"dFAF| "A"E2EF "D"D2 :|
+%%vskip
+%%begintext
+Boys of the Lough
+dB|: AFF2 A2AB | defd efdB | AFF2 dFAF | E2ED EFGB |
+|  AFF2 A2AB | defd efdB | AFF2 dFAF | E2EF D2 :|
+fg |: a2ag  f2fe | defd efdB | AFF2 dFAF |E2EF E2fg |
+|   a2ag f2fe | defd efdB | AFF2 dFAF 1 E2EF D2 :|
+%%endtext
+%%vskip
+%%vskip
+%%vskip
+K:Am
+P:Green Groves of Erin
+"Am"A2BA eABA|"G"G2Bd gedB
+%%begintext
+|: Am   | G      | Am    | G       |
+|  Am   | G      | F        | Em    :|
+|: Am   | Em   | F     | Em      |
+|  Am   | G      | F     | Em     :|
+%%endtext
+
+X:8
+T:Congress (reel), The
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:4/4
+L:1/8
+R: reel
+O:Trad. (26.11.2014/NS)
+K:Ador
+|:"Am"eAAG ABcd|eaaf gedg|eAA2 eAcA|"G"BGGA BABd|
+"Am"eAAG ABcd|eaaf gedB|"G"cBcd eged|cABG "Am"A2Bd:|
+|:"Am"eaag a2ag|eaag e2d2|"G"egdg egdg|eaaf gedg|
+"F"eaag a2ag|eaaf gedB|"G"c2cd eged|cABG "Am"A2Bd:|
+%%vskip
+P:The Banshee
+K:Gmaj
+|:"G"G2 GD EDB,D|GFGB d2 Bd|"G"e2ed "Em"BAGA|1,3 "C"BAGE "D"EDDE:|2,4 "C"BAGE "D"EDD2||
+|:"Am"eaag efge|"Em"dBBA B2 Bd|eB ~B2 Bgfg|eBBA B2 Bd|
+"Am"eaag efge|"Em"dBBA B2 Bd|"G"e2ed "Em"BAGA|1 "C"BAGE "D"EDD2:|2 "C"BAGE "D"EDDE||
+%%vskip
+K:Edor
+P:Cooley's
+|:D2| "Em" EBBA B2 EB| B2 AB dBAG| "D" F/E/D AD BDAD| FDAD dAFD|
+"Em" EBBA B2 EB| B2 AB defg| "D" afec dBAF| DEFD "Em" E2:|
+|:gf| "Em" eB B2 efge| eB B2 gedB| "D" A2 FA DAFA| A2 FA defg|
+"Am" eB B2 eBgB| eB B2 defg| "Bm" afec dBAF| "D" DEFD "Em" E2:|
+
+X:6
+T:Drowsy Maggie (reel)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R: reel
+M:4/4
+O:Trad. (9.4.2014/NS)
+L: 1/8
+K:Edor
+|:"Em"E2BE dEBE|E2BE AFDF|E2BE dEBE|"D"BABc dAFD:|
+%%vskip
+"D"d2fd "A"c2ec|"D"defg afge|"D"d2fd "A"c2ec|"G"BABc dAFA|
+"D"d2fd "A"c2ec|"D"defg afge|"D"a/g/fge "A/C#"fdec|"Bm"BABc "D"dAFD|
+%%vskip
+W:Drowsy Maggie
+%%vskip
+W:||: E2BE dEBE | E2BE AFDF | E2BE dEBE | BABc dAFD :|
+%%vskip
+W:d2fd c2ec | defg afge | d2fd c2ec | BABc dAFA |
+W:d2fd c2ec | defg afge | a/g/fge fdec | BABc dAFD |
+%%vskip
+%%vskip
+P:The Maid Behind The Bar
+K:Dmaj
+|:DE|"D"FAAB AFED|FAAB A2de|"Hm"fBBA Bcde|f2gf "A"edBA|
+"D"FAAB AFED|FAAB A2de|"Hm"fBBA BcdB|"A"AFEF "D"D2 :|
+de|"D"fgag fdde|fdad fdd2|"Em"efga beef|g/f/ebe "A"gee2|
+"D"fgaf +slide+b2af|defd e2de|"Hm"fBBA BcdB|"A"AFEF "D"D2 :|
+%%vskip
+W:The Maid Behind The Bar
+%%vskip
+W:||: DE | FAAB AFED | FAAB A2de | fBBA Bcde | f2gf edBA |
+W:FAAB AFED | FAAB A2de | fBBA BcdB | AFEF D2 :|
+W:de| fgag fdde | fdad fdd2 | efga beef | g/f/ebe gee2 |
+W:fgaf b2af | defd e2de | fBBA BcdB | AFEF D2 :|
+
+X:21
+T:Tam Lin (Reel)
+T:Glasgow Reel, The
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:4/4
+L:1/8
+R: reel
+O:Davey Arthur (21.2.2015/NS)
+K:Dmin
+"Dm"A,2DA, FA,DA,|"Bb"B,2DB, FB,DB,|"C"C2EC GCEC|FEDC A,DDC|
+"Dm"A,2DA, FA,DA,|"Bb"B,2DB, FB,DB,|"C"C2EC GCEC|FEDC A,DD2:|
+|:"Dm"dA~A2 FADA|dA~A2 FADA|"C"cG~G2 EG~G2|cG~G2 cdec|
+"Dm"dA~A2 FADA|dA~A2 FEDA,|"Bb"~B,3A, B,CDE|"C"FDEC "Dm"A,DD2:|
+%%vskip%%
+%%vskip%%
+K:Ddor
+P:Julia Delaney's
+|: c | "Dm"dcAG "Bb"{FG}F2 DF | "C"{EF}E2 CE "G" FED2 | dcAG "Bb"{FG}F2 DF | "C"Ad{e}dc "Dm"defe |
+"Dm"dcAG "Bb"{FG}F2 DF | "C"{EF}E2 CE "G"FEFA | dcAG "Bb"{FG}F2 DF | "C"Ad{e}dc "Dm"d2 c :|
+|: e | "Dm"fede fagf | "C"ecgc acge | "Bb"fede fagf | "Am"eA~A2 "Dm"d2de |
+"Dm"fede "F"fagf | "C"ecgc acge | "Bb"fedf "Am"edcG | Ad{e}dc "Dm"d2 e :|
+
+X:27
+T:Rakish Paddy (reel)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R: reel
+M:4/4
+L:1/8
+O:Trad. (6.10.2015/NS)
+K:Ador
+AB|:"C/D"c2 cB c2 AB|cAAG EGG2|"D"Add^c defe| d=cAG FGAB|
+"C/D"c2 cB c2 AB|cAAG EGG2|"D"DEFG ABcA|dcAG FA D2:|
+|:"G/D"eg g2 ag g2|eg g2 ed^cd|"D"ea a2 ba a2|ea ag edBd|
+"G/D"eg g2 agge|"D"f2 fe defg|afge fde^c|1d=cAG FA D2:|2d=cAG FGAB|
+%%vskip
+%%begintext
+Rakish Paddy
+AB |: c2 cB c2 AB | cAAG EGG2 | Add^c defe | d=cAG FGAB |
+c2 cB c2 AB | cAAG EGG2 | DEFG ABcA | dcAG FA D2 :|
+|: eg g2 ag g2 | eg g2 ed^cd | ea a2 ba a2 | ea ag edBd |
+eg g2 agge | f2 fe defg | afge fde^c |1 d=cAG FA D2 :|2 d=cAG FGAB |
+%%endtext
+%%vskip
+P:The Ashplant
+K:Edor
+"Em"BE~E2 BAGA|BE~E2 ~G2GA %| BE~E2 BABd|gedB "D"A2GA|
+%"Em"BE~E2 BAGA|BE~E2 ~G2GA|~B3A (3Bcd ef|gedB "D"A2GA ||
+%"Em"B2eB fBeB|~B2ed "D"BAGA|"Em" B2eB fBef |gedB "D"A2GA |
+%"Em"B2eB fBeB|~B2ed BAGA|"Em"(3Bcd ef "Bm"~g2ga|gedB A2GA ||
+%%vskip
+%%begintext
+| Em    ||               |       D  |
+| Em    ||               |       D  ||
+| Em    |           D | Em        |        D  |
+| Em    ||        Hm ||
+%%endtext
+%%vskip
+P:Speed The Plough
+K:Dmaj
+|:"D"d3A BAFB|AFFD "A"EFDE %|"D"~F2AF "G"G2BG|"D"ABde "A"fedc|
+%"D"~d3A BAFB|AFFD "A"EFDE|"D"F2AF "G"G2BG|"A"ABde fdd2:|
+%|:"D"daaf afdf|"G"~g2fg edBd|"D"Aaaf afdB |"A"ABde fdd2 |
+%"D"daaf afdf|"G"~g2fg "Em"edBA|"Bm"F2AF "G"G2BG|"A"ABde fdd2 :|
+%%vskip
+%%begintext
+|: D    |      A  | D   G   | D  A  |
+|  D    |      A  | D   G   | A      :|
+|: D    | G       | D         | A       |
+|  D    | G Em | Hm G | A      :|
+%%endtext
+%%vskip
+%%vskip
+%%vskip
+%%begintext
+ks. Rapalje - Rakish Paddy (Rakish Paddies 2003)
+%%endtext
+
+X:32
+T:Silver Spear (reel), The
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R: reel
+M:4/4
+L:1/8
+O:Trad. (25.11.2015/NS)
+K:Dmaj
+AG |: "D" FA A2 BAFA | dfed "G"BcdA | "D" FA ~A2 BAFA | dfed "A"B2 A2 |
+"D" FA A2 BAFA | dfed Bdef | "G" ~g3 e "D/F#"~f3 e | "Em" dfed "A"B2 A2 :|
+|: "D" faaf bfaf | gfed Bcde | "Em" faaf bfaf | gfed ~B2 A2 |
+"D/F#" faaf bfaf | gfed Bdef | "G" ~g3 e "D/F#"~f3 e | "Em"  dfed "A"B2 A2 :|
+%%begintext
+The Silver Spear
+AG |: FAA2 BAFA | dfed BcdA | FA~A2 BAFA | dfed B2A2 |
+FAA2 BAFA | dfed Bdef | ~g3e ~f3e | dfed B2A2 :|
+|: faaf bfaf | gfed Bcde | faaf bfaf | gfed ~B2A2 |
+faaf bfaf | gfed Bdef | ~g3e ~f3e | dfed B2A2 :|
+%%endtext
+%%vskip
+K:Ador
+P:Da New Rigged Ship
+eg|: "Am" a2 ab ageg| agbg agef %| "G" g2 gg fgag|1 "D" f2 d2 d2 eg:|2 "D" f2 d2 d2 ed||
+%|: "A" ^cAcA "Em"B2 ed| "A" ^cAcA "Em"E2 ed| "A" ^cAcA "Em"B2 ed|1 "A" ^c2 A2 A2 ed :|2"A" ^c2 A2 A2 AB||
+% "C" cdec "G/B" BcdB| "Am" ABAF "G"GF E2| "F" cdec BcdB| "Am/E" c2 A2 A2 AB|
+% "D" cdec BcdB| "Em" ABAF GF E2| "F" cdec BcdB| "G" c2 A2A2 ||
+%%vskip
+%%begintext
+|: Am      || G         | D      :|
+|: A  Em  | A  Em  | A  Em  | A      :|
+| C  G/H  | Am  G  | F          | Am/E    | D     | Em     | F      | G      ||
+%%endtext
+%%vskip
+K:Amaj
+P:The Boys Of Malin
+|: "A" ABcd eAce| "D"fedf "E"edcB %| "A"ABcd eAce|1 "E" fdBc d2cB:|2 "E" fdBc defg||
+% "A" aAAA cAce| a2ag fefg| "Bm"aAAA cAce| fdBc defg|
+% "A/C#" aAAA cAce| a2ag f2g2| "D"afge "A/C#"fdec| "Bm"dcBc "E"d2cB|
+%|: "A" Aece Aece| Aece "D"~d2cB| "A"Aece Aece| "E"fdBc d2cB :|
+%%vskip
+%%begintext
+|: A      | (D)  (E)   | A        | E      :|
+|  A      || Hm     || A/C#      ||   D  A/C#   |  Hm   E    |
+|: A      |          D    | A        | E      :|
+%%endtext
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+W:Altan: Donal Agus Morag (Harvest Storm 1992)
+
+X:40
+T:Tarbolton (reel), The
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:4/4
+L:1/8
+R: reel
+O:Trad. (15.4.2015/NS)
+K:Edor
+D|"Em"Eeed e2 BA|GBAF GFEF|"D"Dddc d2 AF|DFAF GFED|
+"Em"Eeed efge|fedf edBA|"C"G2BG "D"FGAd|"Hm"BGAF "Em"GEE :|
+|:f|"Em"gfef gebe|gebe "G"gfec|"D"d2 fd Adfd|ABAG "Hm"FDDF|
+"C"G2BG "D"FGAG|"Em"Eeef gfed|"D"B2 BA GFGA|BGAF "Em"GEE :|
+%%vskip
+K:Gmaj
+P:The Longford Collector
+"G"G2 GA B2Bd|e~B3 eBdB
+%%vskip
+%%begintext
+|: G     | %       | G        | Am D  |
+|  G     | %       | C        | D        :|
+|: G     | %       | G        | Am D  |
+|  G     | %       | C        | Am D :|
+%%endtext
+%%vskip
+K:Dmaj
+P:The Sailor's Bonnet
+"D"A2 FA dfef|dfef "G"dBB2
+%%vskip
+%%begintext
+|: D          |        G    | D       |     A  :|
+|: D          |        A    | Em    |     A   |
+| Hm  A   | G    Em | A       |     D   :|
+%%endtext
+
+X:5
+T:The Concertina Reel
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R: reel
+O:Trad. (11.9.2013/NS)
+M:4/4
+L:1/8
+K:Dmaj
+|:"D"A2FA BAFA|A2FA BAFA|"G"B2cA BAcA|BAcA BAFG|
+"D"A2FA BAFA|A2FA BAFE|"G"FABc d2dB|"A"AFEF "D"D4:|
+|:"D"Ad ~d2 Ad ~d2|"D/F#"AddA BAFA|"G"B2cA BAcA|"A"BAcA BAFG|
+"D"Ad ~d2 "D/C#"Ad ~d2|"G/B"Addc "A"d3B|"G"A2FA BcdB|"A"AFEF "D"D4:|
+%%vskip
+W:The Concertina Reel
+%%vskip
+W:||: A2FA BAFA | A2FA BAFA | B2cA BAcA | BAcA BAFG |
+W: A2FA BAFA | A2FA BAFE | FABc d2dB | AFEF D4 :|
+W:||: Ad ~d2 Ad ~d2 | AddA BAFA | B2cA BAcA | BAcA BAFG |
+W: Ad ~d2 Ad ~d2 | Addc d3B  A2FA BcdB | AFEF D4 :|
+%%vskip
+%%vskip
+K:Emin
+P:Dunmore Lasses
+"Em"E2 EF G2 GA|Be~e2 Be~e2|E2 EF G2BG|"D"A2BA GAFG|
+"Em"E2 EF G2 GA|Beed e2 ef|"C"(3gfe fd edBG|"D"A2BA GAFG:|
+%%vskip
+|:"Em"gfeg fedA|Be~e2 Be~e2|gfeg fedB|"D"A2BA GE~E2|
+"C"~g3e ~f3A|Beed e2ef|"D"(3gfe fd edBG|A2BA GEE2:|
+%%vskip
+W:Dunmore Lasses
+%%vskip
+W:||: E2 EF G2 GA | Be~e2 Be~e2 | E2 EF G2BG | A2BA GAFG |
+W:E2 EF G2 GA | Beed e2 ef | (3gfe fd edBG | A2BA GAFG :|
+W:||: gfeg fedA| Be~e2 Be~e2 | gfeg fedB | A2BA GE~E2 |
+W:~g3e ~f3A  |Beed e2ef | (3gfe fd edBG | A2BA GEE2 :|
+
+X:11
+T:Boys of Bluehill (Hornpipe), The
+R:hornpipe
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:4/4
+L:1/8
+O:Trad. (18.9.2014/NS)
+K:Dmaj
+|:dB| "D"BAFA D2 FA| "G"BA (3Bcd "A" e2 de| "D"fa gf "Em"egfe| "Hm"dfed "G"B2dB|
+"D"BAFA D2FA| "G"BA (3Bcd "A"e2 de| "D"fagf "A7"egfe|"D"d2 d2 d2 :|
+|:fg | "D"afdf a2gf| "A"efga b2 ag| "D"fagf "Em"egfe| "Hm"dfed "G"B2 dB|
+"D"BA FA D2 FA| "Hm7" BA (3Bcd "Em"e2de| "D"fagf "A7"egfe| "D"d2 d2 d2 :|]
+%%vskip
+W:The Boys of Bluehill
+W: |: dB | BAFA D2FA | BA (3Bcd e2de| fa gf egfe | dfed B2dB |
+W: BAFA D2FA | BA (3Bcd e2de | fagf egfe | d2 d2 d2 :|
+W: |: fg | afdf a2gf | efga b2ag | fagf egfe | dfed B2dB |
+W: BAFA D2FA | BA (3Bcd e2de | fagf egfe | d2 d2 d2 :|]
+%%vskip
+%%vskip
+K:G
+P:Mickey Callaghan's Fancy
+"G"GEDE "Am"GABA|"G/H"GEDE "C"GABd
+%%begintext
+|: G  Am   | G/H   C   | G   Em    | Am  D    |
+|  G  Am   | G/H   G   | C   G/H   | D     G   :|
+|: Em        | D             | C   G/H   | A7   D    |
+|  G  Am   | G/H   G   | C   G/H   | D     G   :|
+%%endtext
+%%vskip
+%%vskip
+P:Where's the Wife?
+K:A
+"A"+slide+c3 c- "A/C#"cBAB|"D"cAFA "A"E4
+%%begintext
+|: A  A/C#   | D       A      | A   F#m  | H7   E7  |
+|  A  A/C#   | D       A      | A   Hm   | E7    A   :|
+|: A  A/C#   | D       D/F# | A   F#m | H7    E7  |
+|  A  A7/G   | D/F#  F      | A    D     | E7    A   :|
+%%endtext
+
+X:26
+T:Poll Ha'Penny (Hornpipe)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R:hornpipe
+M:4/4
+L:1/8
+O:Trad. (30.9.2015/NS)
+K:Ador
+AB | "A5"cAAG A2 (3AB^c | d=c AF "G"G2 ^cd | "A"ed^ce "Em"d^cAG | "A5"A2 AG A2de |
+"D" ~f3d "A"~e3^c | "D"d2 (3B^cd efge | "A5"aged "Em"^cAGB | "A"A2 AG A2 :|
+|: ef | "G5"~g2 ga gfed | cdef gedg | "A5"eaab aged | eaab a2 ag |
+"D"~f3d "A/E"~e3^c | "D/F#"d2 (3B^cd "G"efge | "A5"aged "Em"^cAGB | "A5"A2 AG A2 :|
+%%vskip
+%%begintext
+Poll Ha'Penny
+AB | cAAG A2 (3AB^c | d=c AF G2 ^cd | ed^ce d^cAG | A2 AG A2de |
+~f3d ~e3^c | d2 (3B^cd efge | aged ^cAGB | A2 AG A2 :|
+|: ef | ~g2 ga gfed | cdef gedg | eaab aged | eaab a2 ag |
+~f3d ~e3^c | d2 (3B^cd efge | aged ^cAGB | A2 AG A2 :|
+%%endtext
+%%vskip
+%%vskip
+P:The Harvest Home
+K:Dmaj
+|:"D"DAFA DAFA|defe dcBA%|"A"eAfA gAfA|(3efe (3dcB (3ABA (3GFE|
+%"D"DAFA DAFA|defe dcBA|"A"eAfA gece|[1"D"d2 f2 d2 AF:|[2"D"d2 f2 d2 cd|]
+%|:"A"eA ~A2 "D"fA ~A2|"A7"gAfA "Em"eA ~A2|"A"eAfA gAfA|"Em"(3efe (3dcB "A"(3ABA (3GFE|
+%"D"DAFA DAFA|defe dcBA|"A"eAfA gece|[1"D"d2 f2 d2 cd:|[2"D"d2 f2 d4|]
+%%begintext
+|: D  | D  | A  | A  |
+| D  | D  | A  | D  :|
+|: A D | A7 Em | A   | Em A |
+| D  | D  | A  | D  :|
+%%endtext
+
+X:9
+T:Red Haired Boy (Hornpipe), The
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:4/4
+L:1/8
+R:hornpipe
+O:Trad. (22.1.2014/NS)
+K:Amix
+|: AG |"A"E2A2 ABcd|efec "D"d2 cd|"A"e2A2 ABcA|"G"BGEF G2 GF|
+"A"E2A2 ABcd|efec "D"d2 cd|"A"eaab afed|c2"E"A2 "A"A2 :|
+%%vskip
+|: ef| "G"gf ga gfef|gfec "D"d2 cd|"A"e2 A2 ABcA|"G"BGEF G2 GF|
+"A"E2A2 ABcd|efec "D"d2 cd|"A"eaab afed|c2"E"A2 "A"A2 :|
+%%vskip
+P:King Of The Fairies
+K:Edor
+|:B,2|"Em"EDEF GFGA|B2B2 G2GA|B2E2 EFGE|"D"FGFE D2B,2|
+"Em"EDEF GFGA|BAGB "D"d3c|"C"B2E2 "D"GFED|"Em"E6 :|
+|:B2|"Em"e2e2 Bdef|gagf efed|e2B2 BABc|"Hm"dedc BcdB|
+"Em"e2B2 Bdef|gagf efed|"C"Bdeg "D"fedf|"Em"e6 ef|
+"G"g3e "D"f3d|"Hm"edBc d3e|"D"dBAF GABc|"A"dBAF GFED|
+"Em"B,2E2 EFGA|B2e2 edef|"C"e2B2 "D"BAGF|"Em"E6:|
+%%vskip
+W:Red Haired Boy
+W:||: AG | E2A2 ABcd | efec d2 cd | e2A2 ABcA | BGEF G2 GF |
+W:    E2A2 ABcd | efec d2 cd | eaab afed | c2A2 A2 :|
+W:||: ef | gf ga gfef | gfec d2 cd | e2 A2 ABcA | BGEF G2 GF |
+W:    E2A2 ABcd | efec d2 cd | eaab afed | c2A2 A2 :|
+%%vskip
+W:King Of The Fairies
+%%vskip
+W:||: B,2 | EDEF GFGA | B2B2 G2GA | B2E2 EFGE | FGFE D2B,2 |
+W:EDEF GFGA | BAGB d3c | B2E2 GFED | E6 :|
+W:||: B2 | e2e2 Bdef | gagf efed | e2B2 BABc | dedc BcdB |
+W:e2B2 Bdef | gagf efed | Bdeg fedf | e6 ef |
+W:g3e f3d|  edBc d3e | dBAF GABc | dBAF GFED |
+W:B,2E2 EFGA | B2e2 edef | e2B2 BAGF | E6 :|
+
+X:20
+T:Ballydesmond 1 (Polka)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:2/4
+O:Trad. (4.2.2015/NS)
+L:1/8
+R:polka
+K:Ador
+|:"Am"EA AB|cd e2|"G"G>F GA|GE ED|
+"Am"EA AB|cd ef|"G"ge"Em" dB|"Am"A2 A2:|
+|:"Am"a>g ab|ag ef|"G"g>f ga|ge ed|
+"Am"ea ab|ag ef|"G"ge "Em"dB|"Am"A2 A2:|
+%%vskip
+%%vskip
+P:Ballydesmond 2
+K:Ador
+AB |"C"c2"Em"B2|"Am"A2 "Em"G>A
+%%vskip
+%%begintext
+|: C  Em  | Am  Em | G         ||
+| Am       | G            | C  Em  | Am    :|
+|: Am      | G            | Am      | Em      |
+| Am       | G            | C  Em  | Am    :|
+%%endtext
+
+X:13
+T:Breeches Full of Stitches (polka)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:2/4
+L:1/8
+O:Trad. (3.9.2014/NS)
+K:Gmaj
+|:"G"G>A BG |AG BG| G>A BG |"C"AG E2|
+"G"G>A BG |AG Bd| G>A GE |"D"ED D2:|
+|:"G"d>e dB |"C"AG AB| "G"d>e dB |"D"AG E2|
+"G"d>e dB |"C"AG AB| "G"G>A GE |"D"ED D2:|
+%%vskip
+%%vskip
+P:The Top of Maol
+K:Em
+"Em"E2EF/A/|BAFA
+%%begintext
+|: Em   || D        ||
+|  Em   || D        | Em    :|
+|: Em   || D        ||
+|  C      || G  D   | Em    :|
+%%endtext
+%%vskip
+%%vskip
+P:Bill Sullivan's
+K:Gmaj
+"G"g2g>e|dB g>e
+%%begintext
+|: G    ||            ||
+||         ||        :|
+|: G    | C     | G        | D     |
+|  G    | C     | G  D   | G    :|
+%%endtext
+
+X:12
+T:Kerry Polka
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+O:Trad. (29.11.2013/NS)
+M:2/4
+L:1/8
+R:polka
+K:Dmaj
+|:"D"fA BA|fA BA|d2 "G"e>f|"A"ed BA|
+"D"fA BA| fA BA|d2 "G"e>f| "A"ed "D"d2:|
+|:"D"fa f>e| "G"ed BA|"D"d2 e>f| "A"ed BA|
+"D (tai Hm)"fa f>e| "A"ed BA|"G"d2 e>f |"A"ed "D"d2:|
+%%vskip
+K:Gmaj
+P:Mrs. Crowley's
+|: "G"DG EG/E/ | DG EG/E/ | DG AG/A/ | "D"BA A2 |
+"G"DG EG/E/ | DG EG/E/ | DG "D"AG/A/ | "G"BG G2 :|
+|: "G"dB gB | "Am"dB gB | "G/H"dB gB | "C"cA A>B |
+"G"dB gB | "G/H"dB gB | "C"GB "D"AG/A/ | "G"BG G2 :|
+%%vskip
+K:Dmaj
+P:Ryan's
+|: "D"dd B/c/d/B/ | AF AF | dd B/c/d/B/ | AF ED |
+dd B/c/d/B/ | AF Ad/e/ | "D"fd "A"ec | "D"d2 d2 :|
+|: "D"fd de/f/ | "G"gf ed | "D"fd Ad | fd "A"a>g |
+"D"fd de/f/ | "G"gf ed/e/ | "D"fd "A"ec |"D"d2 d2 :|
+
+X:29
+T:Knocknagoshel (Polka), The
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R:polka
+M:2/4
+L:1/8
+O:Trad. (27.10.2015/NS)
+K:Gmaj
+|: "G" G>G ED| GB dB/d/| "C" eB dB| "D" A/B/A/G/ ED|
+"G" G>G ED| "G" GB dB/d/| "C" ed "D"BA| "G" G2 G2:|
+|: "G" d2d^c/d/| "Em" ed BG| "C" Gc cd| "D" ed Bc|
+"G" d2d^c/d/| "Em" ed BG| "C" AB/c/ "D"BA| "G" G2 G2:|
+%%vskip
+%%begintext
+The Knocknagoshel
+|: G>G ED | GB dB/d/ | eB dB | A/B/A/G/ ED |
+G>G ED | GB dB/d/ | ed BA | G2 G2 :|
+|: d2 d^c/d/ | ed BG | Gc cd | ed Bc |
+d2 d^c/d/ | ed BG | AB/c/ BA | G2 G2 :|
+%%endtext
+%%vskip
+K:Edor
+P:Toureendarby
+|: "Em"BE FE | BE FE %| "D"D>E FA |FE FA |
+%"Em"BE FE | BE FE | "D"D>E FA | "Em"FE E2 :|
+%|: "Em"ef/e/ dB | ef/e/ "G"dB | "D"AF dF | AB/c/ "Hm"d2 |
+%"C"ef/e/ dB | ef/e/ dB | "D"AF dF | "Em"FE E2 :|
+%%vskip
+%%begintext
+|:Em    | %      | D     | %          |
+| Em    | %      | D     | Em       :|
+|:Em    |      G | D     |        Hm |
+| C       | %      | D     | Em       :|
+%%endtext
+%%vskip
+P:The Maids Of Ardagh
+K:Dmaj
+|: "D"FG/A/ BA | de f2 %| "G"fe/f/ gc | "A"ed BA |
+%"D"FG/A/ BA | de f2 | "G"fe/f/ "A"gc | "D"ed d2 :|
+%|: "A"ef/e/ ce | fe "D"a2 | "A"ef/e/ ce | "D"fe c/B/A |
+%"A"ef/e/ ce | fe "D"a2 | "D"ef/e/ "E"dB | "A"BA A2 :|
+%%vskip
+%%begintext
+|:D       | %      | G        | A        |
+| D       | %      | G  A   | D       :|
+|:A       |      D | A        | D        |
+| A       | %      | D   E   | A       :|
+%%endtext
+%%vskip
+
+X:24
+T:O'Neill's Cavalry March
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R:polka
+M:4/4
+L:1/8
+O:Trad. (9.9.2015/NS)
+K:Em
+P:A
+"Em" +segno+B2g2 "D" f2a2 | "Em" e2g2 gfed | "Em" B2g2 "D" f2a2 | "Em" e2g2 gfed :|
+P:B
+"Em" e2e2 fedB | e2e2 fedB | e2de fedB | e2de fedB |
+P:C
+|: "Am" A2AB "G" G2GB | "Am" A2e2 edBG | "Am" A2AB "G" G2GB |1 "Am" A2e2 edBG :|2 "Am" A2e2 edBA +segno+||
+P:D
+|: "Am" e2A2 A2Bd | "G" e3d B2d2 | "Am" e2A2 A2BA | "Em" G3A B2d2 |
+"Am" e2A2 A2Bd | "G" e3d B2d2 | "Am" e2d2 "Em" g2B2 | "Am" A4 A4 :|
+P:E
+|: "Am" e2a2 a2ga | "G" b3a g2e2 | "Em" d2B2 "G" g2B2 | "Em" dcBA "G" GABG |
+"Am" e2a2 a2ga | "G" b2ba g2e2 | "Em" d2B2 "G" g2B2 | "Am" A4 A4 :|
+%%vskip
+%%begintext
+O'Neill's Cavalry March
+A: |: B2g2 f2a2 | e2g2 gfed | B2g2 f2a2 | e2g2 gfed :|
+B:   e2e2 fedB | e2e2 fedB | e2de fedB | e2de fedB |
+C: |: A2AB G2GB | A2e2 edBG | A2AB G2GB |1  A2e2 edBG :|2  A2e2 edBA ||
+D: |: e2A2 A2Bd | e3d B2d2 | e2A2 A2BA | G3A B2d2 |
+e2A2 A2Bd | e3d B2d2 | e2d2 g2B2 | A4 A4 :|
+E: |: e2a2 a2ga | b3a g2e2 | d2B2 g2B2 | dcBA GABG |
+e2a2 a2ga | b2ba g2e2 | d2B2 g2B2 | A4 A4 :|
+%%endtext
+
+X:4
+T:Young Men In Their Bloom (march)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:4/4
+L:1/8
+O:Trad. (3.9.2014/NS)
+R:march
+K:Emin
+|:"Em"EGEF GFG2|BAB2 e2ef|"C"gfe2 dcB2|"D"ABG2 FED2|
+"Em"EGEF GFG2|BAB2 e2ef|"C"gfe2 dcB2|"D"AGF2  "Em"E4:|
+|:"Em"EGE2 B4|EGE2  B^cd2|"D"DED2 A4|DED2 AGF2|
+"Em"EGE2 B4|EGE2 e3f|"C"gfe2 dcB2|"D"AGF2  "Em"E4:|
+%%vskip
+P:Young Men In Their Bloom (jig)
+K:Emin
+|:B|"Em"EGE GFG|BAB e2f|"C"gfe dcB|"D"ABG FED|
+"Em"EGE GFG|BAB e2f|"C"gfe dcB|"D"AGF "Em"E2:|
+|:B|"Em"EGE B2B|EGE  B^cd|"D"DED A2A|DED AGF|
+"Em"EGE B2B|EGE  e2f|"C"gfe dcB|"D"AGF "Em"E2:|
+%%vskip
+W:Young Men In Their Bloom
+%%vskip
+W:||: EGE GFG | BAB e2f  | gfe dcB | ABG FED |
+W:   EGE GFG | BAB e2f  | gfe dcB | AGF E3 :|
+W:||: EGE B2B | EGE B^cd | DED A2A | DED AGF |
+W:   EGE B2B | EGE e2f  | gfe dcB | AGF E3 :|
+
+X:16
+T:Hare in the Corn (slide)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:12/8
+L:1/8
+R:slide
+O:Trad. (6.11.2014/NS)
+K:Dmaj
+AG|"D"F2A AFA "G"BdB "D"AFD|F2E "A"EDE "D"F2D D2 E|
+"D"F2A AFA "G"BdB "D"AFA|"G"Bcd "A"edB "D"d3 d:|
+|:ze|"D"f2f fef "G"g2e ede|"D"f2f fed "A"a2a bag|
+"D"f2f fef "G"g2e edB|"D"ABd "A"edB "D"d3 d:|
+%%vskip
+W:Hare in the Corn
+W:AG | F2A AFA BdB AFD | F2E EDE F2D D2 E |
+W:F2A AFA BdB AFA | Bcd edB d3 d :|
+W:||: e | f2f fef g2e ede | f2f fed a2a bag |
+W:f2f fef g2e edB | ABd edB d3 d :|
+%%vskip
+%%vskip
+K:Edor
+P:Road to Lisdoonvarna
+D|:"Em"E2B B2A B2c d3|"D"F2A ABA D2E FED%
+%%vskip
+%%begintext
+|: Em      | D         | Em      | D Em  :|
+|: Em D  | A Em  | Em D  | A Em   :|
+%%endtext
+%%vskip
+K:Gmaj
+P:Dan Cronin's
+"G" GAB D2E G2A B2G| A2G B2G "C" A2G E3%
+%%vskip
+%%begintext
+|: G       |        C  | G    | D   G   :|
+|  C       |        D  | C    | Em D   |
+|  G  C  | Em  D  | G    | D   G   |
+%%endtext
+%%vskip
+
+X:15
+T:My Mind Will Never Be Easy (slip jig)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:9/8
+L:1/8
+R:slip jig
+O:Trad. (2.10.2014/NS)
+K:Em
+gf|"Em"edB B2"D"A G2A|"C"Bdd ~d2B dgf|"C"edB B2"D"A G2A|"Em"Bee ~e2d egf|
+"Em"edB B2"D"A G2A|"C"Bdd ~d2B ~d3|"C"def gd"D"B G2A|"Em"Bee ~e2d ~e3||
+|:"C"def ga"Em/H"f g2d|"D/A"Bdd ~d2B ~d2B| "C"deg ag"D"e dBA|"Em"Bee ~e2d ~ e3:|
+%%vskip
+W:gf | edB B2A G2A | Bdd ~d2B dgf | edB B2A G2A | Bee ~e2d egf |
+W:      edB B2A G2A | Bdd ~d2B ~d3 | def gdB G2A | Bee ~e2d ~e3 ||
+W:   |: def gaf g2d|Bdd ~d2B ~d2B| deg age dBA|Bee ~e2d ~ e3:|
+%%vskip
+K:F#m
+%%vskip
+P:The Cock and the Hen
+"F#m"F2F FEF "C#m"(Bc)A|"F#m"F2F FEF AFE
+%%vskip
+%%begintext
+|: F#m  C#m | F#m     |F#m  C#m | D   E  :|
+|: A       D     | A      E | A      D      | D       :|
+%%endtext
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+W:Dervish: Ash Plant Set (Playing With Fire 2008)
+
+X:14
+T:Snowy Path (Slip Jig)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:9/8
+L:1/8
+R:slip jig
+O:Mark Kelly (13.11.2013/NS)
+K:Dmaj
+"D"F2A B2F A3|"G"G2B d2e dBG|"D"F2A B2F A3|"A"E2D E2F GFE|
+"D"F2A B2F A3|"G"G2B d2e dBG|"Hm"F2A B2F A3|"A"E2D E2F GAB||
+%%vskip%%
+"D/F#"c3 c2e d2c|"G"B2G B2c d2e|"Hm"f3 f2e d2B|"A"A2G F2G A2B|
+"D/F#"c3 c2e d2c|"G"B2G B2c d2e|"D"d2A B2F A2F|"A"E2D E2F GFE||
+%%vskip
+K:Dmix
+P:Hardiman The Fiddler
+|:"D"A2G FDE F2G|A2A AGA cAG|A2G FDE F2G|Add ded cAG:|
+Add d2e f3|Add ded cAG|Add d2e f2g|agf ged cAG|
+Add d2e f3|Add ded cAG|dcA B/^c/de f2g|agf ged cAG||
+%%vskip
+%%vskip
+W:Snowy Path
+%%vskip
+W:F2A B2F A3 | G2B d2e dBG | F2A B2F A3 | E2D E2F GFE |
+W:F2A B2F A3 | G2B d2e dBG | F2A B2F A3 | E2D E2F GAB ||
+W:c3 c2e d2c | B2G B2c d2e | f3 f2e d2B | A2G F2G A2B |
+W:c3 c2e d2c | B2G B2c d2e | d2A B2F A2F | E2D E2F GFE ||
+%%vskip
+%%vskip
+W:Hardiman the Fiddler
+%%vskip
+W:||: A2G FDE F2G | A2A AGA cAG | A2G FDE F2G | Add ded cAG :|
+W:Add d2e f3 | Add ded cAG | Add d2e f2g | agf ged cAG |
+W:Add d2e f3 | Add ded cAG | dcA B/^c/de f2g | agf ged cAG |
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+W:Altan: Snowy Path (Harvest Storm 1992)
+
+X:28
+T:The Foxhunter's (Slip Jig)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:9/8
+L:1/8
+R:slip jig
+O:Trad. (21.10.2015/NS)
+K:D
+|:"D"FGF F2D"G"G2E|"D"FGF F2D"A"E2D|"D"FGFF2D"G"G2B|"D"AFD D2F E2D:|
+|:"G"B=cB BAG "D/F#"FGA|"Em"B2E E2F G2B|"D"AB^c dcB "A"ABc|"D"d2D D2F E2D:|
+%%vskip
+%%text The Foxhunter's
+%%text |: FGF F2D G2E | FGF F2D E2D | FGF F2D G2B | AFD D2F E2D :|
+%%text |: B=cB BAG FGA | B2E E2F G2B | AB^c dcB ABc | d2D D2F E2D :|
+%%vskip
+P:A Fig For A Kiss
+K:Edor
+|: "Em"G2B E2B BAG | "D"F2A D2A AGF %| "Em"G2B E2B BAG | "C"BdB "Hm"AGF E2F :|
+%"C"g2e g2e edB | "D"f2f dcd fed | "C"g2e g2e edB | "Hm"dBA GBd e2f |
+%"C"g2e g2e edB | "D"f2f dcd fed | gfe fed ed A| BdB AGF E3||
+%%begintext
+|: Em   | D     | Em     | C  Hm     :|
+|: C      | D     | C        | Hm          :|
+%%endtext
+
+X:17
+T:Planxty Hewlett (waltz)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:3/4
+L:1/8
+O:Turlough O'Carolan (28.1.2014/NS)
+R:waltz
+K:Dmaj
+|:A2|"D"D2 D2 FG|"A"AB c2 A2|"Bm"d2 f3  g|"G"fe d3B|
+"D"A2 F2 F2|"A"G2 GA BG|"D"AF D2 "A"DE|"D"D4:|
+%%vskip
+|:AB|"D"A2 D2 AB|"A/C#"A2 D2 AB|"Hm"A2 d3 d|"A"dc BA GF|
+"G"G2 GA GA|"D/F#"G2 GA GA|"Em"G2 GA BG|"D"AF D3E|
+"D"FE F2 G2|"A"AB c2 A2|"Hm"fe fg ag|"G"fe d3B|
+"D"A2 F2 F2|"A"G2GA BG|"D"AF D2 "A"DE|"D"D4:|
+%%vskip
+W:Planxty Hewlett
+%%vskip
+W:||: A2 | D2 D2 FG | AB c2 A2 | d2 f3  g | fe d3 B |
+W:A2 F2 F2 | G2 GA BG | AF D2 DE | D4 :|
+%%vskip
+W:||: AB | A2 D2 AB | A2 D2 AB | A2 d3 d | dc BA GF |
+W:G2 GA GA | G2 GA GA | G2 GA BG | AF D3 E |
+W:FE F2 G2 | AB c2 A2 | fe fg ag | fe d3 B |
+W:A2 F2 F2 | G2 GA BG | AF D2 DE | D4 :|
+%
+
+X:31
+T:Tabhair Do'm Do Lámh (waltz)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R:waltz
+M:3/4
+L:1/8
+O:Ruairi Dall O'Cathain (16.11.2015/NS)
+K:Gmaj
+P:A1
+D2|:"C"E2 G2 G2|"G"G4 D2|"C"E2 G2 G2|"G"G4 D2|"C"E2 G2 G2|"G" G2 A2 B2|"Hm"B2 e2 d2|"Em"B4 AG|
+"Am"A2 A2 ed| "Hm"B2 B2 dB|"Am"A2 AB AG| "C/E"E4 D2|
+P:A2
+"C"E2 G2 G2| "G"G4 D2|"C"E2 G2 G2| "G"G4 D2|"C"E2 G2 G2| "G"G2 A2 B2|"D"D2 DB AB| "G"G4 D2|
+"C"E2 G2 G2| "G"G2 A2 B2|"Hm"B2 e2 d2|"Em" B4 AG|"Am"A2 A2 ed| "Em"B2 B2 dB|"Am"A2 A2 A/B/d|"C" e4 dB||
+P:B
+"G".d2 d2 e2| "Em"g4 ed|"C".e2 e2 g2| "D"a4 ge|"G".g2 g2 de|"Em" .g2 g2 de|"C".g2 g2 "D"a2|"G" b6|
+P:C
+"G" .b2 .b2 .b2| b4 ag|"D"a2 ag ab| a4 gf|"C"e2 e2 ge |"G/H" .d2 d2 gd|"G"B2 B2 dB|"D" A4 BA|
+"G"G2 G2 A/B/d|"F" =f4 ed|"C"e2 e2 g2|"D9" e4 dB|"G".d2 d2 g2|"Em" B2 B2 dB|"D"A2 Ac BA|"G" G4 D2:|
+"C"E2 G2 G2|"G" G4 D2|"C"E2 G2 G2|"G" G6 |]
+
+X:18
+I: titlefont Times-Roman 24
+I: partsfont Times-Roman 20
+U:V=+upbow+
+U:U=+downbow+
+T:Komppikuvioita
+L:1/8
+O:18.9.2014/NS
+K:C clef=none stafflines=0
+P:Reel
+M:4/4
++>+AAAA AAAA|+>+AAAA AAAA
+%%vskip
+UA2 UA2 UAVAUAVA|UA2 UAVA UAVAUAVA
+%%vskip
+P:Jig
+M:6/8
+UA2 UA VAUAVA|UA2 UA VAUAVA
+%%vskip
+UAVAUA UAVAUA|UAVAUA UAVAUA
+%%vskip
+P:Slip jig
+M:9/8
+UA2 UA VAUAVA UA2VA|UA2 UA VAUAVA UA2VA
+%%vskip
+P:Polkka
+M:2/4
+A+>+A A+>+A | A+>+A A+>+A
+%%vskip
+A+>+A A/A/A/A/ | A+>+A A/A/A/A/
+%%vskip
++>+A2 +>+A2| z +>+A2 A| +>+A2 A2| z +>+A2 A
+%%vskip
+P:Hornpipe
+M:4/4%
+A2 +>+A2 A2 +>+A2 |A2 +>+A2 A2 +>+A2
+%%vskip
+A2 +>+A>A A2 +>+A>A | A2 +>+A>A A2 (3AAA
+%%vskip
+
+X:22
+T:Silver Spear (reel), The
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+R: reel
+M:4/4
+L:1/8
+O:Trad. (25.11.2015/NS)
+K:Dmaj
+AG |: "D" FA A2 BAFA | dfed "G"BcdA | "D" FA ~A2 BAFA | dfed "A"B2 A2 |
+"D" FA A2 BAFA | dfed Bdef | "G" ~g3 e "D/F#"~f3 e | "Em" dfed "A"B2 A2 :|
+|: "D" faaf bfaf | gfed Bcde | "Em" faaf bfaf | gfed ~B2 A2 |
+"D/F#" faaf bfaf | gfed Bdef | "G" ~g3 e "D/F#"~f3 e | "Em"  dfed "A"B2 A2 :|
+%%begintext
+The Silver Spear
+AG |: FAA2 BAFA | dfed BcdA | FA~A2 BAFA | dfed B2A2 |
+FAA2 BAFA | dfed Bdef | ~g3e ~f3e | dfed B2A2 :|
+|: faaf bfaf | gfed Bcde | faaf bfaf | gfed ~B2A2 |
+faaf bfaf | gfed Bdef | ~g3e ~f3e | dfed B2A2 :|
+%%endtext
+%%vskip
+T:Da New Rigged Ship
+K:Ador
+eg|: "Am" a2 ab ageg| agbg agef %| "G" g2 gg fgag|1 "D" f2 d2 d2 eg:|2 "D" f2 d2 d2 ed||
+%|: "A" ^cAcA "Em"B2 ed| "A" ^cAcA "Em"E2 ed| "A" ^cAcA "Em"B2 ed|1 "A" ^c2 A2 A2 ed :|2"A" ^c2 A2 A2 AB||
+% "C" cdec "G/B" BcdB| "Am" ABAF "G"GF E2| "F" cdec BcdB| "Am/E" c2 A2 A2 AB|
+% "D" cdec BcdB| "Em" ABAF GF E2| "F" cdec BcdB| "G" c2 A2A2 ||
+%%vskip
+%%begintext
+|: Am      | %          | G         | D      :|
+|: A  Em  | A  Em  | A  Em  | A      :|
+| C  G/H  | Am  G  | F          | Am/E    | D     | Em     | F      | G      ||
+%%endtext
+%%vskip
+T:The Boys Of Malin
+K:Amaj
+|: "A" ABcd eAce| "D"fedf "E"edcB %| "A"ABcd eAce|1 "E" fdBc d2cB:|2 "E" fdBc defg||
+% "A" aAAA cAce| a2ag fefg| "Bm"aAAA cAce| fdBc defg|
+% "A/C#" aAAA cAce| a2ag f2g2| "D"afge "A/C#"fdec| "Bm"dcBc "E"d2cB|
+%|: "A" Aece Aece| Aece "D"~d2cB| "A"Aece Aece| "E"fdBc d2cB :|
+%%vskip
+%%begintext
+|: A      | (D)  (E)   | A        | E      :|
+|  A      | %             | Hm     | %     | A/C#      | %       |   D  A/C#   |  Hm   E    |
+|: A      |          D    | A        | E      :|
+%%endtext
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+%%vskip
+W:Jamiäänitteitä: http://muualla.net/irkku/
+W:user: kurssi, pass: keikka
+
+X:33
+T:Here's A Health To The Company
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:3/4
+L:1/8
+O:Trad. (11.2.2016/NS)
+K:Bm
+f>e|"Hm"f2B3 d|"F#m"c>BA2 zA|"A"A2e2c2|"Hm"B4 B>c|
+w:Here's a health to the com-pa-ny and one to my lass. Let us
+"D"d2e2f2|"Hm"(b>a) f2 (f>e)|f2B2 (c>B)|"A"A4 B>c|
+w:drink and be mer--ry all_ out of one_ glass. Let us
+"D"d2e2f2|"Hm"(b>a) f2 (f>e)|f2B2 c>B|"A"A4 f>e|
+w:drink and be mer--ry all_ grief to ref--rain. For we
+"Hm"d2B2 (B>c)|"F#m"(B>A) F2 (F>^G)|"A"A2 (e>d) (B>A)|"G"B4
+w:may or might_ nev--er all_ meet here_ a--gain.
+%%vskip
+%%vskip
+%%begintext
+1.Kind _friends and companions, come join me in rhyme
+Come _lift up your voices in chorus with mine
+Come _lift up your voices, all grief to refrain
+For we _may or might never all meet here again
+So here's a health to the company..
+2.Here's a _health to the wee lass that I love so well
+Her _style and her beauty there's none can excel
+There's a _smile on her countenance as she sits upon my knee
+There is _no one in this wide world as happy as we
+So here's a health to the company..
+3.Our _ship lies at anchor, she is ready to dock
+I _wish her safe landing without any shock
+And if _e'er should we meet again by land or by sea
+I will _always remember your kindness to me
+So here's a health to the company..
+%%endtext
+
+X:34
+T:Neilidh O'Boyle's (Strathspey)
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:4/4
+O:Trad. (18.2.2016/NS)
+L:1/8
+K:Gmaj
+"G"d2 dB "Am"efge|"G/H"de (3dcB "D/A".A2A2|"G"d2 dB "C"efge|"D"dBAc "G"B<GG2:|
+"G"(3Bcd gb "C"(3agf g2|"G/H"(3Bcd gb "D/A".a2 a2|"G"(3Bcd gb "C"(3agf ge|"D"dBAc "G"B<GG2|
+"G"(3Bcd gb "C"(3agf g2|"G/H"(3Bcd gb "D/A"a2 ga|"G"aggf "C"gage|"D"dBAc "G"B<GG2||
+%%vskip
+P:Scotch Mary
+K:Emin
+GA|"Em"B<E ED EFGA|B<E ED G3A |B<EBA (3B^cd ed|cABG A2:|
+fg|abag efed|^cdef g2 fg|abag eged|cABG A2fg|
+abag efed|^cdef g2fg|afge fded|cABG AF||
+%%vskip
+P:Clarke's
+K:Dmaj
+"D"d2 dB A<F FA|"A"G<E EG "D"F<D D2 |dcdB A<F F2|faeg fddc|
+d2 dB AFFA|GEEG FD D2|d2 dB AF F2|faeg fdde|
+fdad fdad|(3cBA eA fAeA|fdad f de|faeg fdde|
+fdad fdad|(3cBA eA fAeA|(3Bcd (3cde (3def (3efg|(3fga (3bag (3fgf (3edc|
+%%vskip
+%%vskip
+%%vskip
+%%begintext
+Altan: The Rosses Highlands (Harvest Storm 1992)
+%%endtext
+
+X:35
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+T:Toss The Feathers (Reel)
+M:4/4
+L:1/8
+O:Trad. (28.3.2016/NS)
+K:Edor
+|:"Em"EBB2 dBB2|EBBA "D"FDFA|"Em"BE E2 B2Bd|[1 egfe "D"dBAF:|2 egfe "D"dBAe|
+"Em"Beed e2 de|"D"fede fe e2|"Em"febe febe|"D"fede "Bm"feed|
+"Em"Beed e2 de|"D"fede "Bm"fa a2|"G"b2bf "D"a2af|"A"e/f/gfe "D"dBAF||
+%%vskip
+K:Ador
+P:The Gravel Walks
+|:"A5"A2 eA c/B/A eA|A2 eA BAGB%|A2 eA B/c/d ef|"(G)"gedc BAGB:|
+%|:"A5"A2 aA gAfA|A2 eA "(G)"BAGB|1 "A5"A2 aA gAfA|"G"gedc BAGB:|2 "A5"ABcd efga|"G"gedc BAGB||
+%|:"Am"c/B/A "G"BG "Am"A2 AB|cAAd BAGB|"Am"c/B/A "G"BG "Am"A2ef|"C"gfge "G"dBGB:|
+%|:"C"c2 gc acgc|c2 gc "G"BAGB|"C"c2 gc acga|gedc "G"BAGB|
+%"C"c2 gc acgc|c2 gc "G"BAGB|"A5"ABcd efga|"G"gedc BAGB:|
+%%vskip
+%%begintext
+The Gravel Walks
+|: A5           | %        | %            | %      :|
+|: A5           | %        | %            | G       :|
+|: A5 G A5 | A5       | A5 G A5 | C  G  :|
+|: C             |       G   | C             | G        |
+|  C             |       G   | A5           | G       :|
+%%endtext
+%%vskip
+K:Dmaj
+P:The Virginia
+|:"G"DBBA B3 A|BAdB "A"AFEF%|"D"DF F2 A3 B|AFBF AFEF|
+%"G"DBBA B3 A|BAdB "A"ABde|"D"f2 fe dffe|dBAF BE E2:|
+%|:"D"defe d2  dA|BAFA dAFA|defe defg|afbf afeg|
+%"Bm"f2 df "A"efdB|"D"AF F2 ABde|"G"f2 fe dffe|"A"dBAF BE E2:|
+%%vskip
+%%begintext
+The Virginia
+|: G             |        A  | D            | %      :|x4
+|  D             | %         | %           | %       |
+|: Hm   A    | D/A      | G           | A      :|
+%%endtext
+
+X:36
+T:My Darling Asleep
+I:titlefont Times-Roman 24
+I:partsfont Times-Roman 20
+M:6/8
+L:1/8
+O:Trad. (19.4.2016/NS)
+K:Dmaj
+e|: "D" f2d cAA | BAG A2G | "G" F2A def | "A" gfg eag |
+"D" f2d cAA | "G" BAG A2G | "D" F2A "G" def |1 "A"gec "D"d2e :|2 "A"gec "D"d2A |
+|: "D" FAA B2A | FAA B2A | FAA def | "G" gfg eag |
+"D" f2d "A/C#" cAA | "G/H" BAG "A" A2G | "G" F2A def |1 "A" gec "D" d2A :|2 "A" gec "D"d2e ||
+%%vskip
+P:The Geese In The Bog
+K:Ador
+B|: "Am" cEE GEE| cEE GAB%| cEE GED| "G" EAA A2B|
+%"Am" cEE GEE| cEE GAB| cBA "G"GED| EAA A2 B :|
+%|: "Am" cde g2g| "G/H" eaa ged| "C" cde ged| "Am"eag ~a3|
+%"Am" cde g2g| "G/H" a2a ged| "C" cBA "G"GED| EAA A2B:|
+%%vskip
+%%begintext
+The Geese In The Bog
+|: Am      |              |                | Am    G    |
+|  Am      |              | Am  G    | G             :|
+|: Am      | G/H      | C            | G              |
+|  Am      | G/H      | C     G    |                 :|
+%%endtext
+%%vskip
+K:Amaj
+P:The Handsome Young Maidens
+"A" aed cdB | A2a aga %| "E" bee dee | Bee bag |
+%"A" aed cdB | Ace aga | "E" bee dee |1 BAG "A"A2g :|2 BAG "A" A2 B |
+%|: "A" c3 ABc | "D" d2d fed | "A" c2e aec | "E" B2B eed |
+%"A" c2c ABc | "D" d2d fed |1 "A" cAc aec | "E" BAG "A"A2B :|2 "E" e2e f2f | g2g bag |
+%%vskip
+%%begintext
+The Handsome Young Maidens
+|: A      |            | E           |             |
+|  A      |            | E           |       A  :|
+|: A      | D        | A           | E         |
+|  A      | D        | 1) A           | E    A   :| 2) E      | E       ||
+%%endtext
+
+
