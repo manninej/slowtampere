@@ -2,8 +2,8 @@
 
 
 set setList { \
-	{ "Bothy band, Old hag set" { "old_hag.abc" "dinny_delaneys.abc" "morrisons.abc" } } \
-	{ "Black Rogue set" { "black_rogue.abc" "dinny_delaneys.abc" "morrisons.abc" } } \
+	{ "Out on the ocean set" { "out_on_the_ocean.abc" "the_hag_at_the_churn.abc" "kesh_jig.abc" } } \
+	{ "Old hag set" { "old_hag.abc" "dinny_delaneys.abc" "morrisons.abc" } } \
 	} 
 
 puts $setList
@@ -62,12 +62,13 @@ proc reduceMeasures { abc numberOfMeasures } {
 proc generateCheatSheet { setList } {
 
 	set tuneIndex 1
+	set setNumber 1
 
 	foreach set $setList {
 
 		set setName [ lindex $set 0 ]
 
-		puts "%%center $setName"
+		puts "%%center #$setNumber - $setName"
 
 		foreach tuneFile [ lindex $set 1 ] {
 
@@ -75,7 +76,7 @@ proc generateCheatSheet { setList } {
 
 			set abc [ changeTuneIndex $abc $tuneIndex ]
 
-			set abc [ reduceMeasures $abc 4 ]
+			set abc [ reduceMeasures $abc 2 ]
 			
 			puts "$abc"
 
@@ -83,18 +84,20 @@ proc generateCheatSheet { setList } {
 
 		}
 
+		incr setNumber
 	}
 }
 
 proc generateTunebook { setList } {
 
 	set tuneIndex 1
+	set setNumber 1
 
 	foreach set $setList {
 
 		set setName [ lindex $set 0 ]
 
-		puts "%%center $setName"
+		puts "%%center #$setNumber - $setName"
 
 		foreach tuneFile [ lindex $set 1 ] {
 
@@ -109,12 +112,14 @@ proc generateTunebook { setList } {
 		}
 
 		puts "%%newpage"
+
+		incr setNumber
 	}
 }
 
 puts "%%textfont Times-Roman 20"
 puts "I:titlefont Times-Roman 14"
 
-#generateCheatSheet $setList
-generateTunebook $setList
+generateCheatSheet $setList
+#generateTunebook $setList
 
