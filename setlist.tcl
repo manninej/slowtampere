@@ -1,12 +1,37 @@
 #!/usr/bin/tclsh
 
+proc loadSetList { setFile } {
 
-set setList { \
-	{ "Out on the ocean set" { "out_on_the_ocean.abc" "the_hag_at_the_churn.abc" "kesh_jig.abc" } } \
-	{ "Old hag set" { "old_hag.abc" "dinny_delaneys.abc" "morrisons.abc" } } \
-	} 
+	set handle [ open "$setFile" r ]
 
-puts $setList
+	set setList [ list ]
+
+	while {1} {
+
+		set line [gets $handle]
+
+		if {[eof $handle]} {
+			close $handle
+			break
+		}
+
+		set parts [ split $line "|" ]
+		set setTitle "\"[ string trim [ lindex $parts 0 ] ]\""
+
+		set setTunes [ list ]
+
+		foreach tuneFile [ split [ lindex $parts 1 ] "," ] {
+		
+			lappend setTunes [ string trim $tuneFile ]
+		}
+
+		set setInfo [ list $setTitle $setTunes ]
+
+		lappend setList $setInfo
+	}
+
+	return $setList
+}
 
 proc loadTune { tuneFile } {
 
@@ -117,9 +142,49 @@ proc generateTunebook { setList } {
 	}
 }
 
+##############################################################################
+# Actual script execution
+##############################################################################
+
+if { $argc == 0 } {
+	puts ""
+	puts "Usage:"
+	puts ""
+	puts "  Generate setlist:"
+	puts "    $ setlist.tcl setlist.set > full.abc"
+	puts ""
+	puts "  Generate cheatsheet:"
+	puts "    $ setlist.tcl -c setlist.set > cheat.abc"
+	puts ""
+	exit
+}
+
+set generateCheat 0
+
+foreach param $argv {
+
+	if { $param == "-c" } {
+
+		set generateCheat 1
+
+	} else {
+
+		set fileName $param
+	}
+}
+
+set list [ loadSetList $fileName ]
+
+# Styling
 puts "%%textfont Times-Roman 20"
 puts "I:titlefont Times-Roman 14"
 
-generateCheatSheet $setList
-#generateTunebook $setList
+if { $generateCheat } {
+
+	generateCheatSheet $list
+
+} else {
+
+	generateTunebook $list
+}
 
