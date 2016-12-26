@@ -1,10 +1,11 @@
 X:1
 T:Mickey Callaghan's Fancy
 R:hornpipe
-I:titlefont Times-Roman 24
-I:partsfont Times-Roman 20
 M:4/4
 L:1/8
 O:Trad. (18.9.2014/NS)
 K:G
-"G"GEDE "Am"GABA|"G/H"GEDE "C"GABd
+|:BA| "G" GEDE "Am" GABA| "G/B" GEDE "C" GABc| "G" dBeB "Em" dBGB| "Am" A2AG "D" A2BA|
+"G" GEDE "Am" GABA| "G/B" GEDE GABc| "C" dBeB "G/B" dBGB| "D" A2 G2 "G" G2:|
+|:Bd| "Em" e2ed edBd| "D/F#" d2de dBGB| "C" c2cA "G/B" B2AG| "A7" EAAG "D" A2BA|
+"G" GEDE "Am" GABA| "G/B" GEDE "C" GABc| "G" dBeB "C" dBGB| "D" A2 "G" G2 G2:| 
