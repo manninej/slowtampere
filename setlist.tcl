@@ -107,9 +107,14 @@ proc generateCheatSheet { setList } {
 
 			incr tuneIndex
 
+
 		}
 
 		incr setNumber
+
+		if { $setNumber % 2 == 1 } {
+			puts "%%newpage"
+		}
 	}
 }
 
