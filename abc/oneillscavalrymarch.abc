@@ -1,0 +1,22 @@
+X:1
+T:O'Neill's Cavalry March
+R:polka
+M:4/4
+L:1/8
+O:Trad. (9.9.2015/NS)
+K:Em
+P:A
+"Em" +segno+B2g2 "D" f2a2 | "Em" e2g2 gfed | "Em" B2g2 "D" f2a2 | "Em" e2g2 gfed :|
+P:B
+"Em" e2e2 fedB | e2e2 fedB | e2de fedB | e2de fedB |
+P:C
+|: "Am" A2AB "G" G2GB | "Am" A2e2 edBG | "Am" A2AB "G" G2GB |1 "Am" A2e2 edBG :|2 "Am" A2e2 edBA +segno+||
+P:D
+|: "Am" e2A2 A2Bd | "G" e3d B2d2 | "Am" e2A2 A2BA | "Em" G3A B2d2 |
+"Am" e2A2 A2Bd | "G" e3d B2d2 | "Am" e2d2 "Em" g2B2 | "Am" A4 A4 :|
+P:E
+|: "Am" e2a2 a2ga | "G" b3a g2e2 | "Em" d2B2 "G" g2B2 | "Em" dcBA "G" GABG |
+"Am" e2a2 a2ga | "G" b2ba g2e2 | "Em" d2B2 "G" g2B2 | "Am" A4 A4 :|
+%%begintext
+Structure - AABCC, AABCC, DDEE
+%%endtext
