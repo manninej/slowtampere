@@ -1,6 +1,7 @@
 #!/bin/bash
 
-./setlist.tcl slow.set > slow.abc
-abcm2ps slow.abc
-ps2pdf Out.ps output/Slow.pdf
+if [ -f "$1" ]; then
+	./setlist.tcl $1.set > $1.abc
+	abcm2ps $1.abc -O- | pstopdf -o $1.pdf
+fi
 
