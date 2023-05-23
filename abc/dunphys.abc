@@ -1,0 +1,10 @@
+X: 1
+T: Dunphy's
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF  | "G" GABA  GBdg  | "C"  fefd    "A" e^cAG   | "D" FADA      FGA2  | "C" BGAF  "D" GFED |
+         "G" GABA  g~g2z | "C"  fefd    "A" e^cAG   | "D" FAdB      cADF  | "C" AGGF  "D" G2  :|
+|: B^c | "G" d2Bd  gdBd  | "G"  gb"C"af "G" gdBd    | "Em" g2fg "A" ed^cd | (3efe d^c "D" d2ef |
+         "G/B"g2dc B2Gd  | "Am" ecAG    "D" FAD2    | "G" GBdB  "C" cADF  | "D" AGGF  "G" G2  :|
