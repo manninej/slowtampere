@@ -183,6 +183,7 @@ set list [ loadSetList $fileName ]
 # Styling
 puts "%%textfont Times-Roman 20"
 puts "I:titlefont Times-Roman 14"
+puts "%%pdfmark 1"
 
 if { $generateCheat } {
 

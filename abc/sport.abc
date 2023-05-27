@@ -1,0 +1,12 @@
+X: 1
+T: Spórt
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+     |: "D"  AdF      ~A3 | "Em"   GBE       GFG | "D/F#" AdF     ~A3 | "G" GBE "A" cde |
+        "D"  AdF      ~A3 | "G"    GBE       GFG | "A"    cdc     A2G |1    EAA "D" D2F :|2 EAA "D" D2 ||
+|: d |  "A"  ~c3 "D"  ~d3 | "A"    cec       A2g | "D"    fed "G" ged | "A" cec     A2e |
+        "D"  ~f3 "Em" ~g3 | "D/F#" age       d2e | "G"    fdF     A2F | "A" GEA "D" D2 :| z|
+     |: "A5" AGG      AGE |        AGE "A/G" EDD | "A5"   AGE     cde | "G" dcA "D" ~G3 |
+        "A5" AGG      AGE | "Em"   AGE       EDD | "A"    cdc     A2G  |    EAA "D" D3 :|
